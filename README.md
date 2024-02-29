@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [So you want to be a SOC Analyst? Home Lab (Eric Capuano of Recon InfoSec)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [So you want to be a SOC Analyst? Home Lab (Eric Capuano of Recon InfoSec)](https://github.com/evanwessman/SOC-Lab)
 
 <h2>📄 Certifications:</h2>
 
