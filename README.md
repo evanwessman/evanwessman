@@ -6,7 +6,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- [Comptia A+](https://www.comptia.org/certifications/a)
+- CompTIA [A+](https://www.comptia.org/certifications/a), [Network+](https://www.comptia.org/certifications/network), [Security+](https://www.comptia.org/certifications/security), [Project+](https://www.comptia.org/certifications/project)
 
 
 <h2>📺 Popular YouTube Videos</h2>
@@ -15,8 +15,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- [linkedin](https://linkedin.com/in/evanwessman)
-- [instagram](https://www.instagram.com/mayoibushi/)
+- [Linkedin](https://linkedin.com/in/evanwessman)
+- [Instagram](https://www.instagram.com/mayoibushi/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
