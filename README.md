@@ -6,7 +6,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- [Comptia A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Comptia A+](https://www.comptia.org/certifications/a)
 
 
 <h2>📺 Popular YouTube Videos</h2>
