@@ -8,11 +8,11 @@
 
 - CompTIA [A+](https://www.comptia.org/certifications/a), [Network+](https://www.comptia.org/certifications/network), [Security+](https://www.comptia.org/certifications/security), [Project+](https://www.comptia.org/certifications/project)
 
-
+<!--
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
+-->
 <h2> 🤳 Connect with me:</h2>
 
 - [Linkedin](https://linkedin.com/in/evanwessman)
