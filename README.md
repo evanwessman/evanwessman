@@ -7,6 +7,8 @@
 <h2>📄 Certifications:</h2>
 
 - CompTIA [A+](https://www.comptia.org/certifications/a), [Network+](https://www.comptia.org/certifications/network), [Security+](https://www.comptia.org/certifications/security), [Project+](https://www.comptia.org/certifications/project)
+- Microsoft Certified: Azure Fundamentals AZ-900
+- LPI Linux Essentials
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
