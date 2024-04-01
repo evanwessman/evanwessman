@@ -1,4 +1,4 @@
-<h1>Hi, I'm Evan! <br/><a href="https://www.linkedin.com/in/evanwessman/">Cybersecurity Student</a></h1>
+<h1>Hi, I'm Evan! <br/><a href="https://www.linkedin.com/in/evanwessman/">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
