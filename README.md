@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/evanwessman/Cloud-SOC)
+
   - [So you want to be a SOC Analyst?](https://github.com/evanwessman/SOC-Lab)
 
 <h2>📄 Certifications:</h2>
