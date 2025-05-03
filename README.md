@@ -8,7 +8,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- CompTIA [A+](https://www.comptia.org/certifications/a), [Network+](https://www.comptia.org/certifications/network), [Security+](https://www.comptia.org/certifications/security), [Project+](https://www.comptia.org/certifications/project)
+- CompTIA [A+](https://www.comptia.org/certifications/a), [Network+](https://www.comptia.org/certifications/network), [Security+](https://www.comptia.org/certifications/security), [Project+](https://www.comptia.org/certifications/project), [CySA+](https://www.comptia.org/certifications/cybersecurity-analyst), [Pentest+](https://www.comptia.org/certifications/pentest)
 - Microsoft Certified: Azure Fundamentals AZ-900
 - LPI Linux Essentials
 
